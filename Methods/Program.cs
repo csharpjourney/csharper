@@ -12,7 +12,7 @@ namespace Methods
                 new Product(1, "klavye"),
                 new Product(2, "mouse")
             };
-            Console.WriteLine("Hello World!");
+
             foreach (var p in _products)
             {
                 Console.WriteLine(p._ProductName);
