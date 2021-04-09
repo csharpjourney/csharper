@@ -1,0 +1,12 @@
+/Users/macbookpro/development/csharp/Test/Methods/bin/Debug/netcoreapp3.1/Methods.deps.json
+/Users/macbookpro/development/csharp/Test/Methods/bin/Debug/netcoreapp3.1/Methods.runtimeconfig.json
+/Users/macbookpro/development/csharp/Test/Methods/bin/Debug/netcoreapp3.1/Methods.runtimeconfig.dev.json
+/Users/macbookpro/development/csharp/Test/Methods/bin/Debug/netcoreapp3.1/Methods.dll
+/Users/macbookpro/development/csharp/Test/Methods/bin/Debug/netcoreapp3.1/Methods.pdb
+/Users/macbookpro/development/csharp/Test/Methods/obj/Debug/netcoreapp3.1/Methods.csprojAssemblyReference.cache
+/Users/macbookpro/development/csharp/Test/Methods/obj/Debug/netcoreapp3.1/Methods.AssemblyInfoInputs.cache
+/Users/macbookpro/development/csharp/Test/Methods/obj/Debug/netcoreapp3.1/Methods.AssemblyInfo.cs
+/Users/macbookpro/development/csharp/Test/Methods/obj/Debug/netcoreapp3.1/Methods.csproj.CoreCompileInputs.cache
+/Users/macbookpro/development/csharp/Test/Methods/obj/Debug/netcoreapp3.1/Methods.dll
+/Users/macbookpro/development/csharp/Test/Methods/obj/Debug/netcoreapp3.1/Methods.pdb
+/Users/macbookpro/development/csharp/Test/Methods/obj/Debug/netcoreapp3.1/Methods.genruntimeconfig.cache
