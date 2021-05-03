@@ -28,6 +28,14 @@ namespace Methods
             Console.WriteLine("Number1 : "+number1);
             Add(1,2,3);
 
+            CartManager cartManager = new CartManager();
+
+            foreach (Product prd in _products)
+            {
+                Console.WriteLine("New : "+ prd._ProductName);
+                cartManager.Add(prd);
+            }
+
         }
 
         static int Add3(int number1, int number2)
